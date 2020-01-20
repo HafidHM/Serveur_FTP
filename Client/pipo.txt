@@ -1,0 +1,9 @@
+Un texte est une série orale ou écrite de mots perçus comme constituant un ensemble cohérent, porteur de sens et utilisant les structures propres à une langue (conjugaisons, construction et association des phrases…)1. Un texte n'a pas de longueur déterminée sauf dans le cas de poèmes à forme fixe comme le sonnet ou le haïku.
+L'étude formelle des textes s'appuie sur la linguistique,
+qui est l'approche scientifique du langage. 
+de texte brut dans un protocole de télécommunication ;
+de document texte si le logiciel utilisé permet de formater le texte ;
+ou encore de texte formaté ou riche lorsque les indications de formats sont données en texte brut (exemple : Rich Text Format) ;
+de fichier texte dans un fichier qui ne contient que des
+caractères sans mise en forme autre que les sauts de lignes et le
+choix des caractères.
